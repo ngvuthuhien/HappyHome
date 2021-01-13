@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Home</string>
+    <string name="rooms">Rooms</string>
+    <string name="income">Income</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="chat">Chat</string>
+</resources>
